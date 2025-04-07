@@ -677,7 +677,7 @@ h5 {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('/images/bigdisc2.jpg');
+    background-image: url('./images/bigdisc2.jpg');
     background-size: cover;
     display: flex;
     overflow: hidden;
